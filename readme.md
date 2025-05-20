@@ -1,6 +1,6 @@
 ## Welcome!
 
-#### * **This Repository conatins a driver for Creative Labs Sound Blaster SB0490(aka "الكرت الفضي" WRONG NAMING!!!), Supports WIN 7/8/10/11.**
+#### * **This Repository conatins a driver for Creative Labs SB0490(), Supports WIN 7/8/10/11.**
 
 ## Installation.
 
@@ -13,6 +13,5 @@
 
 ## Arabic Installation.
 
-- **بينزل شرح باليوتيوب قريب انشاءالله .**
 
-- **Made With love by ArabicLabs**.
+#USE IT AT YOUR OWN RISK #SulimanZeen
